@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204)
+}
+li,a{
+	text-decoration-line:none;
+	list-style-type:none;
+}
+ul{
+	border:1px black solid;
+	background-color:rgb(255,255,255);
+    padding:15px;
+	border-radius:6px;
+}
+section{
+	background-color:rgb(255,255,255);
+    padding:15px;
+	border:1px solid black;
+	border-radius:6px;
+	text-align:center;
+}
