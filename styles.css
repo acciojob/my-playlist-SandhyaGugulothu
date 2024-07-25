@@ -5,6 +5,7 @@ body{
 li,a{
 	text-decoration-line:none;
 	list-style-type:none;
+	color:black
 }
 ul{
 	border:1px black solid;
